@@ -39,6 +39,7 @@
 ## L
 
 ## M
+- [Manu Arora](https://manuarora.in)$
 - [Mpho Mphego](https://github.com/mmphego/)
 - [Monica Powell](https://github.com/M0nica)
 
